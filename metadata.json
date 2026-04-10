@@ -1,0 +1,5 @@
+{
+  "name": "Number Duel: AI vs Human",
+  "description": "A strategic number guessing game where you compete against an intelligent AI. Choose your secret number and try to guess the AI's before it guesses yours!",
+  "requestFramePermissions": []
+}
